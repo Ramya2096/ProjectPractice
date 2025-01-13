@@ -12,9 +12,10 @@ public class SampleClass {
 		System.out.println("test3.....");
 		System.out.println("test4 ... as sai branch ");
 		System.out.println("test5.....");
-	
+		System.out.println("test4 ...as ramya code");
 
 		
+>>>>>>> e794b5db67a668336ab40c30a0ce960520bbe4e0
 	}
 
 }
